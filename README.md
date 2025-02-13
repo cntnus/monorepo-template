@@ -1,6 +1,6 @@
 # Monorepo Template
 
-A template to create a monorepo SST v3 project. [Learn more](https://sst.dev/docs/set-up-a-monorepo).
+A template to create a monorepo for cntnus projects. This is based on SST's version. [Learn more](https://sst.dev/docs/set-up-a-monorepo).
 
 ## Get started
 
